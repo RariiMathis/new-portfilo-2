@@ -1,0 +1,58 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/anime.jpg",
+            "title": "Front-End",
+            "description": "Anime Displayer/Ranker A few fellow classmates and myself came together to create a JavaScript-based project around a shared interest of favorite Anime. We went ahead and created our own database, which we utilized to display an arrangement of different anime studios and our personal top 3 shows from each. We found ways to play different audio bites on hover events and a cool way to display different character vectors floating across the screen. I had fun working with such an excited, knowledgeable and passionate group",
+            "link": "View in Github"
+        },
+        {
+            "id": "2",
+            "src": "./img/movie-finder.jpg",
+            "title": "Back-End",
+            "description": "This was a group collaboration to create a CLI back-end using Pthon and SQLite. The purpose of this App was to give the user the ablility to search for movies by genre or actor and list this movies they have been in.",
+            "link": "View in Github"
+        },
+        {
+            "id": "3",
+            "src": "./img/sim-basic.jpg",
+            "title": "Full-Stack",
+            "description": "This was my first Full Stack project displaying my skills using React and my understanding of Python. This App was built to be simliar to PC parts picker but for Sim Racing.",
+            "link": "View in Github"
+        },
+        {
+            "id": "4",
+            "src": "./img/weather.jpg",
+            "title": "C++ Weather App",
+            "description": "Weather App to display my understanding of C++ and my ablility to use different API resources.",
+            "link": "View in Github"
+        }
+    ],
+    "portifolio": [
+        {
+            "id": "1",
+            "src": "./img/Anime Ranker1.JPG",
+            "title": "Anime Ranker",
+            "description": "Anime Displayer/Ranker A few fellow classmates and myself came together to create a JavaScript-based project around a shared interest of favorite Anime. We went ahead and created our own database, which we utilized to display an arrangement of different anime studios and our personal top 3 shows from each. We found ways to play different audio bites on hover events and a cool way to display different character vectors floating across the screen. I had fun working with such an excited, knowledgeable and passionate group"
+        },
+        {
+            "id": "2",
+            "src": "./img/menu.JPG",
+            "title": "CLI Movie Finder",
+            "description": "This was a group collaboration to create a CLI back-end using Pthon and SQLite. The purpose of this App was to give the user the ablility to search for movies by genre or actor and list this movies they have been in."
+        },
+        {
+            "id": "3",
+            "src": "./img/Sim-Racing1.JPG",
+            "title": "Sim Racing Basic",
+            "description": "This was my first Full Stack project displaying my skills using React and my understanding of Python. This App was built to be simliar to PC parts picker but for Sim Racing."
+        },
+        {
+            "id": "4",
+            "src": "./img/weather.jpg",
+            "title": "Weather Me",
+            "description": "Weather App to display my understanding of C++ and my ablility to use different API resources."
+        }
+    ]
+}
